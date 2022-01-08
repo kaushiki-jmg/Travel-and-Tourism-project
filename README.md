@@ -15,6 +15,7 @@ In the present scenario, a customer has to visit various agencies and offices to
 The customer has to make reservations for travel and accommodation. The customer may have 
 to collect information from various sources. It takes a lot of time to plan a tour and often the data
 may not be up to date.
+
 PROPOSED SYSTEM:
 The proposed system maintains a centralized repository of all related information such as tour
 packages, places, hotels and enables one to make reservations for various transportation modes.
